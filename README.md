@@ -2,7 +2,7 @@
 
 Built with the Next.js 13 App Router, tRPC, TypeScript, Payload & Tailwind
 
-Project Deploy: [https://railway.app/]Railway.app
+Project Deploy: <a href="https://railway.app/">Railway.app</a>
 
 Deploy Link: https://digitalhippo2-production.up.railway.app/
 
